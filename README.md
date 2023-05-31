@@ -4,11 +4,9 @@
 <img align="right" alt=Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomerrim&label=Profile%20views&color=0e75b6&style=flat" alt="tomerrim" /> </p>
 
-- 🌱 I’m currently learning **React,Azure**
+- 🌱 I’m currently learning **React,Python**
 
 - 📫 How to reach me **tomerrim@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
