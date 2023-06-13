@@ -1,5 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/126825978/223747123-f9a3ba84-af4b-4145-bc37-415ba0c36bbe.png)
-<h1 align="center">Hi 👋, I'm Tomer Rimler</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+👋%2C+I'm+Tomer+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Victor Welcome to my Profile! animated typed out">
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 <img align="right" alt=Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomerrim&label=Profile%20views&color=0e75b6&style=flat" alt="tomerrim" /> </p>
