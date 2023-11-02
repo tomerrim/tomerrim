@@ -18,12 +18,12 @@
 <h1>Frontend</h1>
 
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,bootstrap,typescript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,bootstrap,typescript&theme=light)](https://skillicons.dev)
   
 <h1>BackEnd</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,express,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,flask,express,nodejs&theme=dark)](https://skillicons.dev)
 
 
 <h1>Data</h1>
