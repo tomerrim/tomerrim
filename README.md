@@ -28,10 +28,16 @@ I am a passionate **Full-Stack Developer** based in Israel, specializing in buil
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomerrim&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="Tomer's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerrim&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff" alt="Top Languages" width="43%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomerrim&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="Tomer's Stats" width="48%" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomerrim&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" width="43%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomerrim&theme=tokyonight&hide_border=true&fire=3B82F6" alt="GitHub Streak" />
 </p>
 
 ---
